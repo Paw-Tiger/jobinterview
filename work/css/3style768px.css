@@ -1,0 +1,78 @@
+@media (max-width: 960px) {
+
+    nav{
+        float: none;
+        margin-top: 38px;
+        margin-left: 20px;
+    }
+    .header__logo{
+        margin-left: 20px;
+    }
+
+    .slider__slogan{
+        max-width: 270px;
+        margin-left: 55px;
+        max-height: 90px;
+    }
+
+    .slider__slogan h1{
+        font-size: 48px;
+    }
+    .slider__slogan h3{
+        font-size: 24px;
+    }
+    .slider__slogan p{
+        font-size: 16px;
+    }
+    .slider__iphone{
+        left: 463px;
+    }
+    .navpoint{
+        margin-top: 40px;
+        margin-right: 128px;
+    }
+    .bluebg__post {
+        margin-left: 9.8%;
+        width: 21%;
+    }
+
+    .bluebg__post h2 {
+        font-size: 28px;
+    }
+
+    .whitebg1__post1 {
+        width: 312px;
+    }
+    .whitebg1__post1 .owerf{
+        display: block;
+        width: 100%;
+        height: 90%;
+        overflow: hidden;
+    }
+
+    .whitebg1__update{
+        max-width: 307px;;
+    }
+    .whitebg1__sprite {
+        margin: 0 auto;
+        margin-left: 81px;
+        padding-top:0;
+    }
+    .sprite{
+        margin-left:0;
+        margin-top: 5px;
+    }
+
+    .whitebg2__post {
+        margin-top: 35px;
+        width: 27%;
+        padding: 0 10px 0 13px;
+    }
+
+    .__footernav {
+        padding-left: 20px;
+    }
+    footer p{
+        margin-top: 39px;
+    }
+}

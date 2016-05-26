@@ -1,0 +1,162 @@
+@media (max-width: 768px) {
+    header {
+        height: 330px;
+    }
+    .disp480 {
+        display: block;
+        position: relative;
+
+    }
+
+    .disp768 {
+        display: none;
+    }
+
+    .header__navigation {
+        text-align: center;
+    }
+    .disp480 .menu{
+        position: relative;
+    }
+    .disp480 .menu .box_per{
+        width: 30%;
+
+    }
+    .disp480 .menu li {
+
+        line-height: 30px;
+        list-style-type: none;
+        text-align: center;
+
+    }
+
+    .disp480 a {
+        font-size: 24px;
+        font-family: "League Gothic",sans-serif;
+        color: rgb(255, 255, 255);
+        text-shadow: 1px 2px 2px rgb(0, 0, 0);
+        line-height: 1.405;
+        text-decoration: none;
+        display: inline-block;
+        text-align: center;
+        width: 100%;
+    }
+
+    .disp480 .menu > a {
+        width: 20px;
+    }
+
+    .disp480 ul.submenu {
+        display: none;
+        position: absolute;
+        margin: 0 auto;
+        background-color: rgba(54, 41, 62, 0.2);
+        border-radius: 10px;
+        width: 100%;
+        top: 0;
+    }
+
+    .disp480 ul.submenu li {
+        width: 100%;
+        text-align: center;
+        margin: 0 auto;
+
+
+    }
+
+    .disp480 ul > li:hover > ul.submenu {
+        display: block;
+    }
+
+    .disp480 ul > li:hover {
+        background-color: rgba(54, 41, 62, 0.2);
+    }
+
+    .disp480 ul.menu > li {
+        border-bottom: 2px #edbfff solid;
+
+    }
+
+    .disp480 ul.menu > li:hover {
+        background-color: transparent;
+        border-bottom: 2px #edbfff solid;
+    }
+
+    .slider__slogan {
+        max-width: 250px;
+        margin-left: 40px;
+
+    }
+
+    .slider__slogan p {
+        display: none;
+    }
+
+    .slider__iphone {
+        left: 250px;
+    }
+
+    .navpoint {
+        margin-top: 40px;
+        margin-right: 271px;
+    }
+
+    .bluebg {
+        height: 600px;
+    }
+
+    .bluebg__post {
+        width: 90%;
+        margin-top: 46px;
+    }
+
+    .whitebg1 {
+        height: 1060px;
+    }
+
+    .whitebg1__post1 {
+        width: 372px;
+        margin-left: 98px;
+    }
+
+    .whitebg1__update {
+        float:none;
+        max-width: 393px;
+        margin-left: 137px;
+        margin-top: 64px;
+    }
+
+    .whitebg1__sprite {
+        margin: 0 auto;
+        margin-left: 11%;
+        padding-top: 0;
+    }
+    .sprite {
+        margin-left: 10%;
+        margin-top: 8%;
+    }
+    .whitebg2{
+        height: 533px;
+    }
+
+    .whitebg2__post {
+        margin-top: 36px;
+        width: 90%;
+        padding: 0 0 0 51px;
+    }
+
+    footer p {
+        float: none;
+        text-align: center;
+    }
+
+
+    .__footernav {
+        padding-left: 62px;
+        width: 88%;
+    }
+    .__footernav li{
+        margin-right: 4%;
+    }
+
+}

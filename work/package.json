@@ -1,0 +1,13 @@
+{
+  "name": "work",
+  "version": "0.1.0",
+  "devDependencies": {
+    "browser-sync": "^2.12.8",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.8",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-image-optimization": "^0.1.3",
+    "gulp-jade": "^1.1.0",
+    "gulp-rename": "^1.2.2"
+  }
+}
